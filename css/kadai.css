@@ -1,0 +1,31 @@
+h1{
+    font-size: 40px;
+    font-style: italic;
+}
+span{
+    font-size: 25px;
+}
+
+img{
+    
+    width: 90px;
+    height: 90px;
+}
+*{
+    background-color: #115886;
+}
+ul{
+    text-align: left;
+    color: yellowgreen;
+}
+footer{
+    border:solid #ffffff;
+    color: #676756;
+    background-color: aquamarine;
+}
+a{background-color: aquamarine;
+    color:#445566;
+}
+main{
+    text-align: center;
+}
